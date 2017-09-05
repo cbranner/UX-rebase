@@ -1,11 +1,18 @@
+*/ CSS Sheet */
+
 body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
+	color: yellow;
 	font-size: 1em;
 }
 
 body {
 	background: black;
+}
+
+footer {
+	background: white;
 }
