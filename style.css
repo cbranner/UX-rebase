@@ -13,6 +13,10 @@ body {
 	background: black;
 }
 
+.two-columns {
+	columns: 100px 2;
+}
+
 footer {
 	background: white;
 }
